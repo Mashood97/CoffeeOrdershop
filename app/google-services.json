@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "821945093331",
+    "firebase_url": "https://coffee-order-shop.firebaseio.com",
+    "project_id": "coffee-order-shop",
+    "storage_bucket": "coffee-order-shop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:821945093331:android:a81d64c5680673a9",
+        "android_client_info": {
+          "package_name": "com.example.masho.coffeeordershop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "821945093331-mlbbc49iru173u7f2en5h8upn3jvvo4i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZYi9surIFmWsVTYEG_RXmj-Acdr9vTGk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
